@@ -15,7 +15,7 @@
 	}
 
 	a.button.special.scrolly.resume {
-		background-color: #f7616e;
+		background-color: #f4695a;
 		border-radius: 3px;
 		color: white;
 		cursor: pointer;
@@ -1384,14 +1384,14 @@
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
-		color: #8cd1a8;
-		text-decoration: none;
+		/*border-bottom: dotted 1px;*/
+		color: #696969;
+		text-decoration: none !important;
 	}
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #8cd1a8 !important;
+			color: #f4695a !important;
 			text-decoration: none;
 		}
 
@@ -2602,7 +2602,7 @@
 			input[type="button"].special.icon:before,
 			button.special.icon:before,
 			.button.special.icon:before {
-				color: #d1ecdc;
+				color: #696969;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,

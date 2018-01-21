@@ -1317,7 +1317,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/siwa-sunset.jpg");
+		background-image: url("images/overlay.png"), url("../../images/siwa-sunset-cropped.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
